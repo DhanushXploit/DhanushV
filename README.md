@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="100%" />
+ <img src="https://media.giphy.com/media/L75j3z8N9snrS/giphy.gif" width="100%" />
+</p>
 
 
 # Hey there, I'm DhanushXploit 👋
