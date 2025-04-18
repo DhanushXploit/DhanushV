@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://i.gifer.com/7VE.gif" alt="Hacker style" width="80%">
-</p>
+  <img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="100%" />
+
 
 # Hey there, I'm DhanushXploit 👋
 
