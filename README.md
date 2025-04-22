@@ -17,9 +17,9 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## 📫 Contact Me
-[![Email](https://img.shields.io/badge/Email-dhanush@example.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dhanush@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/yourtelegram)
+[![Email](https://img.shields.io/badge/Email-dhanushv136@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dhanushv136@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/DHANUSH VISHWALINGAM)
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/dhanushvishwalingam)
 
 ## 📊 GitHub Stats
 ![DhanushXploit's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhanushXploit&show_icons=true&theme=tokyonight)
